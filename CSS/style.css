@@ -1,0 +1,43 @@
+  body{
+    background-color: white;
+  }
+  .main_link{
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+  }
+.main_link:hover{
+  color: white;
+}
+
+  .nav_bar{
+    margin-left: 38%;
+  }
+  button{
+    background-color: white;
+      border: 2px solid black; /* Green */
+      padding: 1%;
+  }
+button:hover{
+  background-color: black; /* Green */
+    color: white;
+}
+form{
+  font-size: 20px;
+}
+.main_data{
+  margin-left: 40%;
+}
+.search_box{
+  width: 20%;
+  font-size: 20px;
+  text-align: left;
+}
+.submit_button{
+  margin-left: 10%;
+}
+.doc{
+  width: 40%;
+  border: 2px solid black;
+  padding: 2%;
+}
